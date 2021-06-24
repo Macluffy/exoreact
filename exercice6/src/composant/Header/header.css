@@ -1,0 +1,19 @@
+.navbar{
+display: flex;
+background-color: rgb(83, 82, 82);
+}
+.liste{
+display: flex;
+width: 100%;
+justify-content: space-around;
+}
+.li{
+display: flex;
+justify-content: center;
+align-items: center;
+list-style: none;
+}
+.lia{
+text-decoration: none;
+color: white;
+}
